@@ -1,6 +1,7 @@
 # MOSADDIR's Portfolio
 
-images.phtoo-removebg-preview
+<img src="![images phtoo-removebg-preview](https://github.com/Abuhenamosaddir/Abuhenamosaddir/assets/169720533/e96208f6-de35-4da9-adb0-439083f8f337)">
+
 
 Assalamualikum, I am ABU HENA MD. MOSADDIR KAMAL, a passionate web developer. My goal is to leverage my skills and knowledge to contribute to innovative projects that make a positive impact on society.
 
